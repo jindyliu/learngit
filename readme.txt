@@ -4,3 +4,4 @@ git, hello v3
 git has mutable index called stage.
 manager chage 1
 manager chager 2
+my stupid boss perfers svn
