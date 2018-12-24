@@ -9,3 +9,11 @@ my stupid boss perfers svn
 create branch dev
 
 branch dev --no-ff merge
+
+dev login function
+
+bug: issue-0001
+
+
+fix-bug: issue-0002
+
