@@ -7,3 +7,5 @@ manager chager 2
 my stupid boss perfers svn
 
 create branch dev
+
+branch dev --no-ff merge
